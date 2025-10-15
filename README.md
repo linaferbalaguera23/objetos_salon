@@ -28,6 +28,7 @@ Cada estudiante grabará un video corto (1 a 3 segundos) de los siguientes objet
 
 ## 📁 Estructura del repositorio
 
+```
 data/
 ├─📁 raw/ # Videos originales
 │ ├── 20202020202_teclado.mp4
@@ -49,7 +50,7 @@ models/
 ├── 20202020202_autoencoder.h5 # Pesos entrenados del autoencoder
 ├── 20202020202_classifier.h5 # Pesos del clasificador
 └── ...
-
+```
 
 >  Los nombres de archivos siguen el formato:
 > - Videos: `"{codigo}_{objeto}.mp4"`
