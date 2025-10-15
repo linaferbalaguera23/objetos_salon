@@ -104,9 +104,4 @@ models/
 Este proyecto se distribuye bajo la licencia MIT.
 Puedes reutilizar y modificar el contenido con fines educativos y de investigación.
 
----
 
-
-## Créditos
-Desarrollado por los estudiantes del curso con el apoyo del equipo docente.
-Proyecto inspirado en la idea de crear datasets colaborativos reales para aplicar redes convolucionales en entornos cotidianos.
