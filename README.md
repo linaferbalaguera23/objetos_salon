@@ -20,7 +20,7 @@ Cada estudiante grabará un video corto (1 a 3 segundos) de los siguientes objet
 - 💻 pantalla  
 - 🖥️ cpu  
 - 🪑 silla  
-- 🧫 masa
+- 🧫 mesa
 
 >  Todos los videos deben tomarse en el entorno del aula o laboratorio para mantener consistencia visual.
 
