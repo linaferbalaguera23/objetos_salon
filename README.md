@@ -95,7 +95,13 @@ models/
 |-|-|-|-|
 |20202020202 | Nombre | teclado | data/raw/20202020202_teclado.mp4 |
 |20202020202 | Nombre | teclado | data/raw/20202020202_mouse.mp4 |
-
+|20242695004 | Andres Pulido | mause | data/raw/20242695004_mouse.mp4 |
+|20242695004 | Andres Pulido | teclado | data/raw/20242695004_teclado.mp4 |
+|20242695004 | Andres Pulido | silla | data/raw/20242695004_silla.mp4 |
+|20242695004 | Andres Pulido | mesa | data/raw/20242695004_mesa.mp4 |
+|20242695004 | Andres Pulido | cpu | data/raw/20242695004_cpu.mp4 |
+|20242695004 | Andres Pulido | pantalla | data/raw/20242695004_pantalla.mp4 |
+|20242695004 | Andres Pulido | nada | data/raw/20242695004_nada.mp4 |
 (Agrega tu fila al contribuir)
 
 ---
