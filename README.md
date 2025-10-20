@@ -102,6 +102,13 @@ models/
 |20242695004 | Andres Pulido | cpu | data/raw/20242695004_cpu.mp4 |
 |20242695004 | Andres Pulido | pantalla | data/raw/20242695004_pantalla.mp4 |
 |20242695004 | Andres Pulido | nada | data/raw/20242695004_nada.mp4 |
+|20242595005 | Fernando Zubieta | nada | data/raw/20242695004_ruido.mp4 |
+|20242595005 | Fernando Zubieta | cpu | data/raw/20242695004_cpu.mp4 |
+|20242595005 | Fernando Zubieta | silla | data/raw/20242695004_silla.mp4 |
+|20242595005 | Fernando Zubieta | mesa | data/raw/20242695004_mesa.mp4 |
+|20242595005 | Fernando Zubieta | teclado | data/raw/20242695004_teclado.mp4 |
+|20242595005 | Fernando Zubieta | mouse | data/raw/20242695004_mouse.mp4 |
+|20242595005 | Fernando Zubieta | pantalla | data/raw/20242695004_pantalla.mp4 |
 (Agrega tu fila al contribuir)
 
 ---
