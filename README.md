@@ -108,7 +108,13 @@ models/
 |20242595005 | Fernando Zubieta | mesa | data/raw/20242595005_mesa.mp4 |
 |20242595005 | Fernando Zubieta | teclado | data/raw/20242595005_teclado.mp4 |
 |20242595005 | Fernando Zubieta | mouse | data/raw/20242595005_mouse.mp4 |
-|20242595005 | Fernando Zubieta | pantalla | data/raw/20242595005_pantalla.mp4 |
+|20251595006 | Alvaro Zarabanda | nada | data/raw/20251595006_Ruido.mp4 |
+|20251595006 | Alvaro Zarabanda | cpu | data/raw/20251595006_Cpu.mp4 |
+|20251595006 | Alvaro Zarabanda | silla | data/raw/20251595006_Silla.mp4 |
+|20251595006 | Alvaro Zarabanda | mesa | data/raw/20251595006_Mesa.mp4 |
+|20251595006 | Alvaro Zarabanda | teclado | data/raw/20251595006_Teclado.mp4 |
+|20251595006 | Alvaro Zarabanda | mouse | data/raw/20251595006_Mouse.mp4 |
+|20251595006 | Alvaro Zarabanda | pantalla | data/raw/20251595006_Pantalla.mp4 |
 (Agrega tu fila al contribuir)
 
 ---
